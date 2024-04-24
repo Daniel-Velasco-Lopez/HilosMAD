@@ -1,0 +1,14 @@
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\obj\Debug\net8.0\HilosMAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\obj\Debug\net8.0\HilosMAD.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\obj\Debug\net8.0\HilosMAD.AssemblyInfo.cs
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\obj\Debug\net8.0\HilosMAD.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\bin\Debug\net8.0\HilosMAD.exe
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\bin\Debug\net8.0\HilosMAD.deps.json
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\bin\Debug\net8.0\HilosMAD.runtimeconfig.json
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\bin\Debug\net8.0\HilosMAD.dll
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\bin\Debug\net8.0\HilosMAD.pdb
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\obj\Debug\net8.0\HilosMAD.dll
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\obj\Debug\net8.0\refint\HilosMAD.dll
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\obj\Debug\net8.0\HilosMAD.pdb
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\obj\Debug\net8.0\HilosMAD.genruntimeconfig.cache
+C:\Users\angel\source\repos\HilosMAD\HilosMAD\obj\Debug\net8.0\ref\HilosMAD.dll
