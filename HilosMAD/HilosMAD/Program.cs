@@ -87,13 +87,14 @@ namespace HilosMAD
 
         static void MostrarAulasDisponibles()
         {
-            // Simulación de visualización de aulas disponibles
+            // Esta funcion simula la visualización de las aulas disponibles
             Console.WriteLine("\nAulas Disponibles:");
-            Console.WriteLine("Aula 101");
-            Console.WriteLine("Aula 102");
-            Console.WriteLine("Aula 103");
+            for (int i = desde; i <= hasta; i++)
+            {
+                Console.WriteLine($"Aula {i}");
+            }
         }
-    }
+
 
     // Clases existentes sin cambios
     public class Folio
